@@ -1,2 +1,2 @@
-# 2019_Spring_CIS_CSC_17a
-Riverside City College Spring 2019 C++ Objects
+# 2019_Fall_CIS_CSC_17a
+Riverside City College FALL 2019 C++ Objects
